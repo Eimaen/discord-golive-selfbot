@@ -3,6 +3,11 @@
 
 ----
 
+## Warning!
+Native login with token and voice channel join doesn't work, as Discord moved from webpack to something idk what. I'll fix it soon.
+
+If you want to use the code in this repo, just click manually on voice channel and login.
+
 ## Installing and running the test app
 1. Clone the repository.
 2. Install dependencies using `npm install`.
